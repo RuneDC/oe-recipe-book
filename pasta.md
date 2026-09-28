@@ -2,13 +2,14 @@
 ## Spaghetti alla carbonara
 ### Ingrediënten
 - Zout
+- Peper
 - Olijfolie: 1 scheutje
 - Boter: 1 klontje
 - Gerookt spek: 250 g
 - Eieren: 5
 - Parmezaanse kaas: 200 g
 - Spaghetti: 500 g
-- Peper
+
 
 ### Bereidingswijze
 1. Zet een ruime kookpot met water op het vuur en breng het aan de kook. Strooi een flinke snuif zout in het water.
